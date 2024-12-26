@@ -1,1 +1,1 @@
-message: This message is from properties file
+message= This message is from properties file
