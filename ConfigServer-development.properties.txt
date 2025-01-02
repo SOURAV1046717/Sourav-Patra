@@ -1,1 +1,1 @@
-message= This message is from dev properties file
+message= This message is from dev properties file.

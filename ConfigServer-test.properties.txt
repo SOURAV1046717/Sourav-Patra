@@ -1,1 +1,1 @@
-message= This message is from test properties file
+message= This message is from test properties file.
